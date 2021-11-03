@@ -1,2 +1,2 @@
-# Praktikum-projects
-Projects completed during the course "Data Scientist Specialist" (Yandex.Practicum)
+# Проекты, выполненные в рамках курса "Специалист по Data Science" от Яндекс.Практикум
+
