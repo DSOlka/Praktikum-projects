@@ -26,5 +26,5 @@
 - numpy
 - matplotlib
 - lightgbm
-- RandomForestRegressor
-- LinearRegression
+- RandomForestRegressor (sklearn)
+- LinearRegression (sklearn)
